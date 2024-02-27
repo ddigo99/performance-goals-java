@@ -42,6 +42,12 @@ public class Menu {
 			
 
 		}
+		
+		while(executando) {
+			
+		}
+		
+		
 }
 
 	}
